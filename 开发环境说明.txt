@@ -1,0 +1,5 @@
+IDE:eclipse
+jdk1.13（jdk1.8即可） 
+tomcat7.0 
+mysql5.7 
+navicat

@@ -1,0 +1,6 @@
+项目说明及开发笔记：
+项目截图：
+源码：
+数据库文件
+项目素材：ueditor插件 + 前端源模板 
+开发环境说明：IDE:eclipse jdk1.8 tomcat7.0 mysql5.7 navicat
